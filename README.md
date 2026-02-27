@@ -34,8 +34,8 @@ Siga esta ordem exata para garantir que o sistema funcione corretamente:
 
 ---
 ## 📸 Capturas de Tela do Sistema
+<img src="C:\Users\Adri\OneDrive\Imagens\Screenshots\Captura de tela 2026-02-25 233813.png" alt="Logo" width="300" height="auto">
 
-<img src="C:\Users\Adri\OneDrive\Imagens\Screenshots\Captura de tela 2026-02-25 233813.png" alt="Texto" width="50%">
 
 ---
 
