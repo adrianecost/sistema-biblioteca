@@ -33,9 +33,14 @@ Siga esta ordem exata para garantir que o sistema funcione corretamente:
     *⚠️ Importante: Use sempre o Live Server para evitar bloqueios de segurança (CORS) do navegador.*
 
 ---
-## 📸 Capturas de Tela do Sistema
-
+## 📸 Interface do Sistema
 <img width="1658" height="905" alt="Captura de tela 2026-02-25 233813" src="https://github.com/user-attachments/assets/b8d676af-8716-4c85-ade2-5a2ec5bf1411" />
+<img width="688" height="619" alt="Captura de tela 2026-02-25 234106" src="https://github.com/user-attachments/assets/b88a9851-a41b-4519-b161-8c1d16638aef" />
+<img width="805" height="727" alt="Captura de tela 2026-02-25 234144" src="https://github.com/user-attachments/assets/229e2cde-417f-4eaf-a111-f50de841d308" />
+<img width="993" height="805" alt="Captura de tela 2026-02-25 234234" src="https://github.com/user-attachments/assets/0b2255a5-4a09-4d75-9aad-bf811b2bd3dc" />
+
+
+
 
 ---
 
