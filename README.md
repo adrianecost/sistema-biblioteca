@@ -34,10 +34,9 @@ Siga esta ordem exata para garantir que o sistema funcione corretamente:
 
 ---
 ## 📸 Capturas de Tela do Sistema
-<p align="center">
-<img src="C:\Users\Adri\OneDrive\Imagens\Screenshots\Captura de tela 2026-02-25 233813.png1" width="100%">
-  <br><br>
-</p>
+
+<img width="1658" height="905" alt="Captura de tela 2026-02-25 233813" src="https://github.com/user-attachments/assets/b8d676af-8716-4c85-ade2-5a2ec5bf1411" />
+
 ---
 
 ## 🔐 Níveis de Acesso e Permissões
